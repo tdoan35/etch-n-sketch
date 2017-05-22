@@ -1,0 +1,21 @@
+#container {
+    margin: auto;
+    background-color: grey;
+    height: 256px;
+    width: 256px;
+}
+.buttons {
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-family: 'Arial';
+}
+.unit {
+    background-color: white;
+    height: 14px;
+    width: 14px;
+    margin: 1px;
+    display: inline-block;
+    float: left
+}
